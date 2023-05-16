@@ -1,0 +1,11 @@
+pandas
+holidays
+datetime
+datetime
+numpy
+matplotlib
+seaborn
+nbconvert
+ipywidgets
+ipywidgets
+IPython
