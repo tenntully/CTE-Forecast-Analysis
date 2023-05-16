@@ -1,11 +1,10 @@
 pandas
 holidays
-datetime
+business_duration
 datetime
 numpy
 matplotlib
 seaborn
 nbconvert
-ipywidgets
 ipywidgets
 IPython
