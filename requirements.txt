@@ -8,3 +8,4 @@ seaborn
 nbconvert
 ipywidgets
 IPython
+dropbox
