@@ -9,3 +9,4 @@ nbconvert
 ipywidgets
 IPython
 dropbox
+warnings
