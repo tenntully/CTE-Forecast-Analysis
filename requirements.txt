@@ -10,3 +10,4 @@ ipywidgets
 IPython
 dropbox
 voila
+openpyxl
