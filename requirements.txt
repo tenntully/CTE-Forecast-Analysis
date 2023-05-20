@@ -11,3 +11,4 @@ IPython
 dropbox
 voila
 openpyxl
+fontstyle
